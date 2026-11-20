@@ -1,0 +1,8 @@
+.DS_Store
+venv/
+__pycache__/
+fontbakery-report.*
+instance_ufo/
+master_ufo/
+build.ninja
+.ninja_log
