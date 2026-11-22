@@ -6,3 +6,6 @@ instance_ufo/
 master_ufo/
 build.ninja
 .ninja_log
+build.stamp
+out/
+instance_ufos/
